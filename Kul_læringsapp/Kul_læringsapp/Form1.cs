@@ -42,7 +42,16 @@ namespace Kul_læringsapp
             
         }
 
-
+        /// <summary>
+        /// kjøre en animasjon og sette igang timer t
+        /// vise bildet når timer t når gitt tid
+        /// etter to trykk skal bildene snus hvis de ikke er like.
+        /// legger til en variabel for å telle antall knappetrykk
+        /// kan bare være like bilder på partall
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void pb1_Click(object sender, EventArgs e)
         {
 
