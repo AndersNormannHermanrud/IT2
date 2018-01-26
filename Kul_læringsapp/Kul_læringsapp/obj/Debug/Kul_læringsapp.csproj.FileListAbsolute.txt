@@ -1,0 +1,10 @@
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\bin\Debug\Kul_læringsapp.exe.config
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\bin\Debug\Kul_læringsapp.exe
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\bin\Debug\Kul_læringsapp.pdb
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.csprojResolveAssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.Form1.resources
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.Properties.Resources.resources
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.csproj.GenerateResource.Cache
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.exe
+C:\Users\ander\OneDrive\Documents\Visual studio\Skole\Kul_læringsapp\Kul_læringsapp\obj\Debug\Kul_læringsapp.pdb
