@@ -39,13 +39,14 @@ namespace Kul_læringsapp
         /// <param name="e"></param>
         private void btStart_Click(object sender, EventArgs e)
         {
-         //Dette er en test xoxxox   
+         //Dette er en test xoxxox
+         //Hei på deg
         }
 
 
         private void pb1_Click(object sender, EventArgs e)
         {
-
+            //Gjør noe
         }
     }
 }
