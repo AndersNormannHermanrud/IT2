@@ -39,7 +39,7 @@ namespace Kul_læringsapp
         /// <param name="e"></param>
         private void btStart_Click(object sender, EventArgs e)
         {
-            
+         //Dette er en test xoxxox   
         }
 
 
