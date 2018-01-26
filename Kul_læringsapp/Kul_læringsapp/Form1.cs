@@ -54,7 +54,7 @@ namespace Kul_læringsapp
         /// <param name="e"></param>
         private void pb1_Click(object sender, EventArgs e)
         {
-
+           //hvorfor får jeg feil?
         }
     }
 }
